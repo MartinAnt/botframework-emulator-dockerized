@@ -1,7 +1,7 @@
 Description
 ----
 
-<a href="https://github.com/Microsoft/BotFramework-Emulator">Microsoft bot framework</a> running inside docker. This will allow you to run the emulator in the same network as your actual
+<a target="_blank" href="https://github.com/Microsoft/BotFramework-Emulator">Microsoft bot framework</a> running inside docker. This will allow you to run the emulator in the same network as your actual
 application.
 
 Usage
